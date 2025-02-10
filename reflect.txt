@@ -1,0 +1,12 @@
+This workshop allowed me to apply and improve my C++ knowledge through practical work with constructors, destructors, and the importance of proper dynamic memory allocation management. 
+In practice, creating the Canister class gave me insights into object-oriented programming principles such as encapsulation, memory management, and the use of this pointer to chain methods together.
+One of the major insights was the importance of creating multiple constructors. 
+The default constructor is useful because it guarantees that the object is initialized properly, while the parameterized constructor is flexible for creating Canisters with certain specified parameters. 
+I also experienced the importance of the destructor since it tends to eliminate problems with memory leaks when utilizing dynamically allocated memory.
+I learned the importance of checking object usability before performing operations on them. 
+Convenient functions such as setToUnusable() were useful for properly taking care of an invalid Canister without causing any errors. Administration of the pour() function and action of 
+interaction between objects taught the importance of maintaining consistency when dealing with object states. Using helper functions provided in cstr.h presented efficient options for manipulating C-strings 
+dynamically.
+Thus, the results of this operation made me more confident in regards to implementing the principles of 
+constructors, destructors, and proper memory management that are necessary to build efficient C++ applications. I feel much more prepared to design and 
+create classes that operate with flexible resource management.
